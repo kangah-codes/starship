@@ -1,0 +1,10 @@
+1. Sprites
+    1. Set up environment
+    2. Create base classes
+        - Player
+        - Enemy
+        - Bullets
+        - Meteors
+        - Powerups
+    3. Tweak classes
+    4. More class functionality
